@@ -1,0 +1,43 @@
+.elementor-1093 .elementor-element.elementor-element-06dbd3e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:flex-end;--gap:5px 5px;--background-transition:0.3s;--border-radius:15px 15px 15px 15px;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-1093 .elementor-element.elementor-element-06dbd3e:not(.elementor-motion-effects-element-type-background), .elementor-1093 .elementor-element.elementor-element-06dbd3e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-astglobalcolor5 );}.elementor-1093 .elementor-element.elementor-element-06dbd3e, .elementor-1093 .elementor-element.elementor-element-06dbd3e::before{--border-transition:0.3s;}.elementor-1093 .elementor-element.elementor-element-dad06f7 img{border-radius:15px 15px 0px 0px;}.elementor-1093 .elementor-element.elementor-element-2871a47{--display:flex;--gap:10px 10px;--background-transition:0.3s;}.elementor-1093 .elementor-element.elementor-element-a86e6c1 .elementor-heading-title{color:var( --e-global-color-astglobalcolor5 );font-family:"Mulish", Sans-serif;font-size:16px;font-weight:bold;text-transform:uppercase;}.elementor-1093 .elementor-element.elementor-element-a86e6c1 > .elementor-widget-container{padding:5px 15px 5px 15px;background-color:var( --e-global-color-accent );border-radius:100px 100px 100px 100px;}.elementor-1093 .elementor-element.elementor-element-a86e6c1.elementor-element{--align-self:flex-start;}.elementor-1093 .elementor-element.elementor-element-27675a2 .elementor-heading-title{color:var( --e-global-color-text );font-family:"Mulish", Sans-serif;font-size:22px;font-weight:900;}.elementor-1093 .elementor-element.elementor-element-a96c5e2{font-family:"Mulish", Sans-serif;font-weight:normal;}.elementor-1093 .elementor-element.elementor-element-b60ebc2{--divider-border-style:solid;--divider-color:var( --e-global-color-astglobalcolor7 );--divider-border-width:1px;}.elementor-1093 .elementor-element.elementor-element-b60ebc2 .elementor-divider-separator{width:100%;}.elementor-1093 .elementor-element.elementor-element-b60ebc2 .elementor-divider{padding-block-start:0px;padding-block-end:0px;}.elementor-1093 .elementor-element.elementor-element-be3a7eb .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-1093 .elementor-element.elementor-element-be3a7eb .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-1093 .elementor-element.elementor-element-be3a7eb{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-1093 .elementor-element.elementor-element-be3a7eb .elementor-icon-list-text{transition:color 0.3s;}.jet-listing-item.single-jet-engine.elementor-page-1093 > .elementor{width:500px;margin-left:auto;margin-right:auto;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://ro.wellvalue.in/wp-content/uploads/2023/08/Mulish-Black.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://ro.wellvalue.in/wp-content/uploads/2023/08/Mulish-Bold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://ro.wellvalue.in/wp-content/uploads/2023/08/Mulish-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://ro.wellvalue.in/wp-content/uploads/2023/08/Mulish-SemiBold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://ro.wellvalue.in/wp-content/uploads/2023/08/Mulish-Medium.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://ro.wellvalue.in/wp-content/uploads/2023/08/Mulish-Regular.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */

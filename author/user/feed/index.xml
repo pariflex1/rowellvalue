@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>user &#8211; Well Smart RO</title>
+	<atom:link href="https://ro.wellvalue.in/author/user/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ro.wellvalue.in/</link>
+	<description>Drinking Pure Alkaline</description>
+	<lastBuildDate>Thu, 22 Feb 2024 09:56:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://ro.wellvalue.in/wp-content/uploads/2023/08/Well-Smart-Icon-100x100.webp</url>
+	<title>user &#8211; Well Smart RO</title>
+	<link>https://ro.wellvalue.in/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>4th ANNIVERSARY CELEBRATION</title>
+		<link>https://ro.wellvalue.in/4th-anniversary-celebration/</link>
+					<comments>https://ro.wellvalue.in/4th-anniversary-celebration/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 07 Feb 2024 09:34:02 +0000</pubDate>
+				<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://ro.wellvalue.in/?p=7323</guid>
+
+					<description><![CDATA[Sunday, 10th March 2024 (11:30 AM) Venue &#8211; PT. DEEN DAYAL SABHAGAR, Behind Rani Laxmi Bai Park Jhansi (UP)]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Sunday, 10th March 2024 (11:30 AM)</strong></p>
+
+
+
+<p><strong>Venue </strong>&#8211; PT. DEEN DAYAL SABHAGAR, Behind Rani Laxmi Bai Park Jhansi (UP)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ro.wellvalue.in/4th-anniversary-celebration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WELL VALUE SMART STORE IBO TRANING PROGRAM</title>
+		<link>https://ro.wellvalue.in/well-value-smart-store-ibo-traning-program/</link>
+					<comments>https://ro.wellvalue.in/well-value-smart-store-ibo-traning-program/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 14:13:01 +0000</pubDate>
+				<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://ro.wellvalue.in/?p=7318</guid>
+
+					<description><![CDATA[SUNDAY, 7th JANUARY 2024 (12:00 Noon)Venue:- Rajkiya Sanghralaya, Fort Road, Jhansi (UP)]]></description>
+										<content:encoded><![CDATA[
+<p>SUNDAY, 7th JANUARY 2024 (12:00 Noon)<br>Venue:- Rajkiya Sanghralaya, Fort Road, Jhansi (UP)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ro.wellvalue.in/well-value-smart-store-ibo-traning-program/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Well Value VD Tiger Champion Unit</title>
+		<link>https://ro.wellvalue.in/well-value-vd-tiger-champion-unit/</link>
+					<comments>https://ro.wellvalue.in/well-value-vd-tiger-champion-unit/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2023 13:25:43 +0000</pubDate>
+				<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://ro.wellvalue.in/?p=1070</guid>
+
+					<description><![CDATA[Date : Tuesday 5th December 2023 (time 12:00 pm)Venue : Hotel Samrat, Jhansi (UP)]]></description>
+										<content:encoded><![CDATA[
+<p>Date : Tuesday 5th December 2023 (time 12:00 pm)<br>Venue : Hotel Samrat, Jhansi (UP)</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:7007566483">Call : 70075 66483</a></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ro.wellvalue.in/well-value-vd-tiger-champion-unit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
